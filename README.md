@@ -24,9 +24,6 @@ Employed the useEffect hook to handle side-effects such as data fetching, update
 6. ## **Responsive Design**
 Ensured a responsive design that adapts seamlessly to different screen sizes and devices, providing an optimal user experience.
 
-7. ## **Routing**
-Implemented client-side routing using a popular library (e.g., React Router) to enable navigation between different sections of the portfolio.
-
 8. ## **Component Composition**
 Demonstrated effective component composition and organization for building a scalable and maintainable application.
 
